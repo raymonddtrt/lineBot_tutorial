@@ -1,3 +1,0 @@
-{"replyToken": "018e9b8257d04f5e95bfb1161a093839", "source": {"type": "user", "userId": "U3e61d72f01f625028c87e434e3a894d0"}, "timestamp": 1555946269299, "type": "follow"}
-{"message": {"id": "9738829423918", "text": "\u54c8\u54c8\u54c8\u54c8\u54c8", "type": "text"}, "replyToken": "699ee35605eb4770828b8603376e0e90", "source": {"type": "user", "userId": "U3e61d72f01f625028c87e434e3a894d0"}, "timestamp": 1555946286766, "type": "message"}
-{"message": {"id": "9756055143441", "text": "\u54c8\u54c8", "type": "text"}, "replyToken": "27e36e9486c54190bca54594a791e151", "source": {"type": "user", "userId": "U3e61d72f01f625028c87e434e3a894d0"}, "timestamp": 1556203751713, "type": "message"}

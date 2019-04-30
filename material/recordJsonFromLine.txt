@@ -1,0 +1,3 @@
+{"message": {"id": "9780981768057", "text": "\u4f60\u81ea\u5df1", "type": "text"}, "replyToken": "ab1514d5ee1c4795af726f5f351dfb1a", "source": {"type": "user", "userId": "Ucfcad274f6464b68b92ed1a823f32486"}, "timestamp": 1556590691411, "type": "message"}
+{"message": {"id": "9780982193474", "text": "\u4f60\u597d", "type": "text"}, "replyToken": "1f1fe08720f942eb917ed32a5ed62407", "source": {"type": "user", "userId": "Ucfcad274f6464b68b92ed1a823f32486"}, "timestamp": 1556590697321, "type": "message"}
+{"message": {"id": "9780996728779", "text": "HI", "type": "text"}, "replyToken": "fe0c62a9e14f47f8bbb0c2516d1fed48", "source": {"type": "user", "userId": "Ucfcad274f6464b68b92ed1a823f32486"}, "timestamp": 1556590899077, "type": "message"}
